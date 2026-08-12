@@ -2,7 +2,7 @@
 
 BX1본부 2027 사업계획 시스템 (프로토타입) — 캠페인 단위 매출이익·인력(FTE) 계획, 공헌이익/표준보상모델 자동 계산, 팀장·준사업조직·본부장 역할별 입력·승인 워크플로우 솔루션.
 
-🔗 **Production:** (배포 후 채워짐)
+🔗 **Production:** https://innocean-businessplan-291757702623.asia-northeast3.run.app
 
 ---
 
